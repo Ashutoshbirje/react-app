@@ -3,6 +3,6 @@
 STEP1: Create react app  
 STEP2: Add >> Commit >> Push
 STEP3: Set-Up github-pages (https://www.npmjs.com/package/gh-pages)
-STEP4: 
-STEP5:
+STEP4: Set-configuration 
+STEP5: npm install gh-pages --save-dev
 STEP6:
