@@ -2,9 +2,9 @@ name: Node.js CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "master", "gh-pages" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "master", "gh-pages" ]
 
 permissions:
   contents: write 
