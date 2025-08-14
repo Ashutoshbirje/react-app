@@ -9,7 +9,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-        <p>CI-CD Pipeline</p>
+        <p>CI-CD PIPELINE</p>
         <a
           className="App-link"
           href="https://about.gitlab.com/topics/ci-cd/"
