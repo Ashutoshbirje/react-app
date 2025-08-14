@@ -3,6 +3,8 @@
 STEP1: Create react app  
 STEP2: Add >> Commit >> Push
 STEP3: Set-Up github-pages (https://www.npmjs.com/package/gh-pages)
-STEP4: Set-configuration 
-STEP5: npm install gh-pages --save-dev
-STEP6: 
+STEP4: pull >> npm install gh-pages --save-dev
+STEP5: Set-configuration in package.json and node.js.yml file
+STEP6: Add >> Commit >> Push
+STEP7: SET secret env variable on github
+STEP8: Deploy with github pages 
